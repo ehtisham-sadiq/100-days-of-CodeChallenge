@@ -1,2 +1,2 @@
-# 100-days-of-LeetCode
-This repository contains 100 days of leetcode questions and their solutions.
+# 100-days-of-CodeChallenge
+This repository contains 100 days of CodeChallenge questions and their solutions.
